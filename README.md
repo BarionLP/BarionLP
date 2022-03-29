@@ -1,6 +1,6 @@
 I'm a hobby game developer.
 Recently I started coding Minecraft mods ([BarionLP](https://www.curseforge.com/members/barionlp/projects) on CurseFore).
-mods coded by me:
+Mods coded by me:
   - [Dungeons Enhanced](https://www.curseforge.com/minecraft/mc-mods/dungeonsenhanced),
   - [The Witcher](https://www.curseforge.com/minecraft/mc-mods/the-witcher-content),
   - [Block Variants](https://www.curseforge.com/minecraft/mc-mods/vanilla-block-variants).
