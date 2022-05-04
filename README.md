@@ -1,5 +1,4 @@
-I'm a hobby game developer.
-Recently I started coding Minecraft mods ([BarionLP](https://www.curseforge.com/members/barionlp/projects) on CurseFore).
+I started with Scratch over 5 years ago and now I make Minecraft mods and games with Unity ([BarionLP](https://www.curseforge.com/members/barionlp/projects) on CurseForge).
 Mods coded by me:
   - [Dungeons Enhanced](https://www.curseforge.com/minecraft/mc-mods/dungeonsenhanced),
   - [The Witcher](https://www.curseforge.com/minecraft/mc-mods/the-witcher-content),
