@@ -1,5 +1,6 @@
-I started with Scratch over 5 years ago and now I make Minecraft mods and games with Unity ([BarionLP](https://www.curseforge.com/members/barionlp/projects) on CurseForge).
-Mods coded by me:
+I started with Scratch over 5 years ago and now I make Unity Games, Minecraft Mods and other Applications.
+
+Mods coded by me ([BarionLP](https://www.curseforge.com/members/barionlp/projects)):
   - [Dungeons Enhanced](https://www.curseforge.com/minecraft/mc-mods/dungeonsenhanced),
   - [The Witcher](https://www.curseforge.com/minecraft/mc-mods/the-witcher-content),
   - [Block Variants](https://www.curseforge.com/minecraft/mc-mods/vanilla-block-variants).
