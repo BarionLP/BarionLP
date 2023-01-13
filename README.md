@@ -6,4 +6,4 @@ Mods coded by me ([BarionLP](https://www.curseforge.com/members/barionlp/project
   - [The Witcher](https://www.curseforge.com/minecraft/mc-mods/the-witcher-content),
   - [Block Variants](https://www.curseforge.com/minecraft/mc-mods/vanilla-block-variants).
 
-On Scratch I'm [@Barion](https://scratch.mit.edu/users/Barion/) but I'm not that activ since I've started with Unity.
+On Scratch I'm [@Barion](https://scratch.mit.edu/users/Barion/) but I'm no longer active since I've started with Unity.
