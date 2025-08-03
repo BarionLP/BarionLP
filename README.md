@@ -1,9 +1,9 @@
-Software Engineer at [@RoBotos-Systems](https://github.com/RoBotos-Systems)<br>
+Software Engineer at [@RoBotos-Systems](https://github.com/RoBotos-Systems)  
 Founder of [@Ametrin-Studios](https://github.com/Ametrin-Studios)
 
-I started with [Scratch](https://scratch.mit.edu/users/Barion/) over 7 years ago, learning more whenever I could.<br>
-Now I design and programm professional software solutions using .NET.<br>
-In my spare free time I create Unity Games and Minecraft Mods at Ametrin Studios.<br>
+I started with [Scratch](https://scratch.mit.edu/users/Barion/) over 7 years ago, learning more whenever I could.  
+Now I design and programm professional software solutions using .NET.  
+In my spare free time I create Unity Games and Minecraft Mods at Ametrin Studios.  
 
 Mods coded by me ([BarionLP](https://www.curseforge.com/members/barionlp/projects)) at Ametrin Studios: 
 [Dungeons Enhanced](https://www.curseforge.com/minecraft/mc-mods/dungeonsenhanced), 
