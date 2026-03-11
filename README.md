@@ -1,5 +1,5 @@
 Software Engineer [@RoBotos-Systems](https://github.com/RoBotos-Systems)  
-Founder [@Ametrin-Studios](https://github.com/Ametrin-Studios)  
+Co-Founder [@Ametrin-Studios](https://github.com/Ametrin-Studios)  
 Deep Learning Engineer [@SolidAI](https://solidai.de/)  
 
 I started with [Scratch](https://scratch.mit.edu/users/Barion/) in 2018, learning more whenever I could.  
